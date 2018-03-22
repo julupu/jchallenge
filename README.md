@@ -2,7 +2,7 @@
 
 A windows reverse engineering challenge that was part of a course homework.
 
-Implements several obfuscation and ant-debugging features.
+Implements several obfuscation and anti-debugging features.
 
 Obfuscation:
 
